@@ -1,0 +1,44 @@
+h1{
+    /* Color Keyword */
+    color: tomato;
+}
+
+h2{
+    /* RRGGBB */
+    color: #0f0;
+}
+
+h3{
+    /* RGB */
+    color: rgb(255, 0, 255);
+}
+
+h4{
+    /* RGBA */
+    color: rgba(45, 45, 80, 1);
+}
+
+h5{
+    /* HSL */
+    color: hsl(40, 100%, 20%);
+}
+
+/* pixel */
+p.text{
+    font-size: 18px;
+}
+
+/* Persen */
+h6.title{
+    font-size: 80%;
+}
+
+/* em */
+p.em{
+    font-size: 1.2em;
+}
+
+/* root em */
+p.root{
+    font-size: 2rem;
+}

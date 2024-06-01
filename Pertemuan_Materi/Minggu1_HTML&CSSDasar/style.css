@@ -1,0 +1,44 @@
+/* Universal Selector */
+* {
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: none;
+}
+
+/* Element Selector */
+
+h2{
+    text-decoration: none;
+    color: pink;
+    font-size: 36px;
+}
+
+p{
+    color: aqua;
+    font-size: 14px;
+}
+
+/* Class Selector */
+.alert-success{
+    color: green;
+    font-weight: bold;
+}
+
+/* ID Selector */
+#alert-danger{
+    color: red;
+    font-weight: bolder;
+}
+
+/* Attribute Selector */
+[title]{
+    color: brown;
+    font-weight: bold;
+}
+
+/* Group Selector */
+h3 .date #text{
+    color: purple;
+}

@@ -1,0 +1,1 @@
+alert('Contoh Alert JS yang dibuat di External JS')
